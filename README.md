@@ -1,5 +1,5 @@
 <div align='center'>
-<h1>A Simple yet Scalable Granger Causal Structural Learning Approach for Topological Event Sequences (NeurIPS2024)</h1>
+<h1>A Simple yet Scalable Granger Causal Structural Learning Approach for Topological Event Sequences (NeurIPS 2024)</h1>
 
 <!--<a>Mingjia Li</a>,
 <a href='https://scholar.google.com/citations?user=sRoqbLwAAAAJ&hl=en'>Shuo Liu</a>,
@@ -24,7 +24,7 @@ RUN S2GCSL.ipynb in jupyter
                   Hong Qian and
                   Aimin Zhou},
   title        = {A Simple yet Scalable Granger Causal Structural Learning Approach for Topological Event Sequences},
-  booktitle    = {Advances in the Annual Conference on Neural Information Processing Systems 37},
+  booktitle    = {Advances in Neural Information Processing Systems 37 (NeurIPS)},
   address      = {Vancouver, Canada}
   year         = {2024},
 }
