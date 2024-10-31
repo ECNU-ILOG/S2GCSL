@@ -1,2 +1,6 @@
 # S2GCSL
-code for the paper "A Simple yet Scalable Granger Causal Structural Learning Approach from Topological Event Sequences"
+## How to Run
+```python
+conda create -n S2GCSL python==3.8
+pip install -r requirements.txt
+RUN S2GCSL.ipynb in jupyter
