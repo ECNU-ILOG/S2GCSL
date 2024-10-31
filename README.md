@@ -13,3 +13,19 @@
 conda create -n S2GCSL python==3.8
 pip install -r requirements.txt
 RUN S2GCSL.ipynb in jupyter
+```
+## Bibtex
+```
+@inproceedings{Li2024S2GCSL,
+  author       = {Mingjia Li and
+                  Shuo Liu and
+                  Hong Qian and
+                  Aimin Zhou},
+  title        = {A Simple yet Scalable Granger Causal Structural Learning Approach from Topological Event Sequences},
+  booktitle    = {Advances in Neural Information Processing Systems 37: Annual Conference
+                  on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver,
+                  Canada, December 10 - 15, 2024},
+  year         = {2024},
+}
+```
+
