@@ -25,8 +25,8 @@ RUN S2GCSL.ipynb in jupyter
                   Aimin Zhou},
   title        = {A Simple yet Scalable Granger Causal Structural Learning Approach for Topological Event Sequences},
   booktitle    = {Advances in Neural Information Processing Systems 37 (NeurIPS)},
-  address      = {Vancouver, Canada}
-  year         = {2024},
+  address      = {Vancouver, Canada},
+  year         = {2024}
 }
 ```
 
