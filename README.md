@@ -16,6 +16,10 @@ conda create -n S2GCSL python==3.8
 pip install -r requirements.txt
 RUN S2GCSL.ipynb in jupyter
 ```
+
+## Reference
+Mingjia Li, Shuo Liu, Hong Qian and Aimin Zhou "A Simple yet Scalable Granger Causal Structural Learning Approach for Topological Event Sequences" In Advances in Neural Information Processing Systems 38, 2024
+
 ## Bibtex
 ```
 @inproceedings{Li2024S2GCSL,
